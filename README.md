@@ -13,4 +13,4 @@
 [View Algorithms and Data Structures](algorithms-and-data-structures/README.md)
 
 ## Databases
-[View Databases](databases/README.md)
+[View Databases](Databases/README.md)
