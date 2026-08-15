@@ -24,7 +24,7 @@ These changes make the database safer, more reliable, and easier to maintain.
 
 The narrative explains what I changed, why I changed it, what skills I used, and how this enhancement connects to the Computer Science program outcomes.
 
-[View Narrative](Narrative.md)
+[View Narrative](narrative.md)
 
 ## Schema Diagram
 
