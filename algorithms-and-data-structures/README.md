@@ -14,4 +14,3 @@ The enhanced version is a more complete text adventure game. I improved the room
 ## Narrative
 The narrative explains what I changed, why I changed it, what skills I used, and how this project connects to the program outcomes.
 [View Narrative](narrative.md) 
-[Download Word Narrative](Algorithms%20and%20Data%20Structures.docx)
